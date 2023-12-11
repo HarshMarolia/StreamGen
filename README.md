@@ -6,7 +6,7 @@ This project involves constructing a comprehensive data engineering pipeline tha
 
 ## System Architecture
 
-![System Architecture]()
+![System Architecture](https://github.com/HarshMarolia/StreamGen/blob/master/data%20streaming%20architecture.png)
 
 The project is designed with the following components:
 
